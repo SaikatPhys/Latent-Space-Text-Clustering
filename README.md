@@ -9,4 +9,4 @@ Clustering sentences/text snippets by employing,
 
 ### Use-cases:
 
-- Embedding tweet replies by using Universal Sentence Encoder (USE), and clustering them using t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- [Embedding tweet replies by using Universal Sentence Encoder (USE), and clustering them using t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/SaikatPhys/Latent-Space-Text-Clustering/blob/main/USE-sentence-embeddings-and-t-SNE-visualization.ipynb)

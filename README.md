@@ -7,7 +7,7 @@ Clustering sentences/text snippets by employing,
 
   `+`
 
-*  various **latent space clustering** algorithms like T-SNE, K-Means and so on.
+*  various **latent space clustering** algorithms like T-SNE, K-Means etc. to perform dimensional reduction over the embedded tweets.
 
 
 ### Use-cases:

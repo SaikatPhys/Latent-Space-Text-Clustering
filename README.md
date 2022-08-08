@@ -1,10 +1,11 @@
-# Latent-Space-Text-Clustering
+# Latent space text clustering 
 
 
 Clustering sentences/text snippets by employing, 
 
-- various Sentence Embeddings like BERT, Universal Sentence Encoder, GLOVE etc. and, 
--  various latent space clustering algorithms like T-SNE, K-Means and so on.
+- various **Sentence Embeddings** like BERT, Universal Sentence Encoder, GLOVE etc.
++
+-  various **latent space clustering** algorithms like T-SNE, K-Means and so on.
 
 
 ### Use-cases:

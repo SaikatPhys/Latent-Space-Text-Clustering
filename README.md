@@ -3,9 +3,9 @@
 
 Clustering sentences/text snippets by employing, 
 
-- various **Sentence Embeddings** like BERT, Universal Sentence Encoder, GLOVE etc.
-+
--  various **latent space clustering** algorithms like T-SNE, K-Means and so on.
+* various **Sentence Embeddings** like BERT, Universal Sentence Encoder, GLOVE etc.
+`+`
+*  various **latent space clustering** algorithms like T-SNE, K-Means and so on.
 
 
 ### Use-cases:
